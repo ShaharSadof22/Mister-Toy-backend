@@ -1,0 +1,50 @@
+[
+  {
+    "name": "wewe",
+    "createdAt": "1231",
+    "price": 123,
+    "type": "Funny",
+    "inStock": true,
+    "imgURL": "https://res.cloudinary.com/cloudinary-img/image/upload/v1600003156/download_3_m5hwo1.jpg"
+  },
+  {
+    "name": "asd",
+    "createdAt": "3333",
+    "price": 333,
+    "type": "Funny",
+    "inStock": true,
+    "imgURL": "https://res.cloudinary.com/cloudinary-img/image/upload/v1600003156/download_3_m5hwo1.jpg"
+  },
+  {
+    "name": "asd",
+    "createdAt": "4444",
+    "price": 333,
+    "type": "Funny",
+    "inStock": true,
+    "imgURL": "https://res.cloudinary.com/cloudinary-img/image/upload/v1600000318/5f44a7398c0cdf460857e744_img-image_jwia8y.jpg"
+  },
+  {
+    "name": "placerat porta",
+    "price": 16,
+    "type": "Educational",
+    "createdAt": "1983-02-24T14:22:33.789Z",
+    "inStock": true,
+    "imgURL": "https://res.cloudinary.com/cloudinary-img/image/upload/v1600000318/5f44a7398c0cdf460857e744_img-image_jwia8y.jpg"
+  },
+  {
+    "name": "turpis tincidunt",
+    "price": 22,
+    "type": "Funny",
+    "createdAt": "1976-09-19T23:15:56.087Z",
+    "inStock": true,
+    "imgURL": "https://res.cloudinary.com/cloudinary-img/image/upload/v1599994018/sample.jpg"
+  },
+  {
+    "name": "suspendisse dolor",
+    "price": 33,
+    "type": "Funny",
+    "createdAt": "1976-04-14T11:14:51.004Z",
+    "inStock": false,
+    "imgURL": "https://res.cloudinary.com/cloudinary-img/image/upload/v1599994018/sample.jpg"
+  }
+]
